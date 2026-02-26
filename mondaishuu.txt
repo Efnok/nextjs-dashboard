@@ -14,3 +14,8 @@ Promise.all()
 
 9章
 データ取得を置く位置 ベストプラクティス
+
+10章
+windowsとmac同期させるとき、vercelから.envに記入する内容をコピーしてくる
+params.set()、new URLSearchParams(searchParams)、searchParams.get('query')?
+new URLSearchParams(searchParams)の返り値や paramsはどのような値なんですか
