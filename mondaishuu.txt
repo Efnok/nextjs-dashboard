@@ -19,3 +19,6 @@ Promise.all()
 windowsとmac同期させるとき、vercelから.envに記入する内容をコピーしてくる
 params.set()、new URLSearchParams(searchParams)、searchParams.get('query')?
 new URLSearchParams(searchParams)の返り値や paramsはどのような値なんですか
+
+11章
+メモ:これにより、データをミューテーション（変更）するためのAPIエンドポイントを作成する必要がなくなります。代わりに、サーバー上で実行され、クライアントコンポーネントまたはサーバーコンポーネントから呼び出す（invoke）ことができる非同期関数 (asynchronous functions) を記述します。どういう意味
